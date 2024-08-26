@@ -5,9 +5,7 @@
 </p>
 ---
 
-## 🚀 Description
-
-I’m a freelance developer who works with Luau, Python, JavaScript, HTML, CSS, and Node.js. I love scripting and am always looking for new projects. Feel free to reach out if you need any help or have a commission. Greek isn't my real name by the way, just an alias!
+## 🚀 About me
 
 - 💼 **Current Role**: Freelance developer.
 - 🌍 **Location**: Somewhere in the world.
