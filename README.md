@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=F7F7F7&center=true&lines=Self+taught+Programmer;Python;HTML;CSS;JavaScript;LuaU" alt="Typing">
 </p>
-
-<p align="center">
-  <a href="https://github.com/cosponsor">
-    <img src="https://img.shields.io/github/followers/cosponsor?label=Follow&style=social" alt="GitHub Followers Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 Description
