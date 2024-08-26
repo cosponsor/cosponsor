@@ -37,10 +37,9 @@ I’m a freelance developer who works with Luau, Python, JavaScript, HTML, CSS, 
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosponsor&layout=compact&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosponsor&layout=compact&hide_border=true" />
 </p>
 
 ---
