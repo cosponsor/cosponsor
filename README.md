@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Greek 👋</h1>
+<h1 align="center">Hi, I'm Mew 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=F7F7F7&center=true&lines=Self+taught+Programmer;Python;HTML;CSS;JavaScript;LuaU" alt="Typing">
